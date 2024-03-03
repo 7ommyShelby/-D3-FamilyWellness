@@ -1,0 +1,90 @@
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.section3{
+    width: 100%;
+    background-color: #991F48;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.sec3 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: azure;
+    padding: 2rem 0;
+    width: 50%;
+    gap: 2rem;
+}
+.btn{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+.con{
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+button{
+    padding:1rem 2.5rem;
+    border: 2px solid white;
+    background-color: #991F48;
+    color: aliceblue;
+    transition: all .4s ease-in-out;
+    font-weight: 600;
+    text-transform: uppercase;
+}   
+button:hover{
+    background-color: aliceblue;
+    color: #991F48;
+}
+
+.section4{
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+    flex-direction: column;
+    justify-content: center;
+}
+.col{
+    color: #991F48;
+}
+
+.sec4{
+    width: 74%;
+    display: flex;
+    flex-direction: column;
+    gap:2rem;   
+    margin-bottom: 1rem;
+}
+.address{
+    margin-top: 1rem;
+    width: 74%;
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+    align-items: center;
+}
+hr{
+    height: 1px;
+    background-color: black;
+    width: 74%;
+}
+.ad-head{
+    font-size: 1.7rem;
+    color: #991F48;
+    font-weight: 400;
+}
+
+

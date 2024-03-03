@@ -1,0 +1,32 @@
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+}
+.home{
+    background-color:#991F48 ;
+}
+li{
+    width: 20%;
+    background-color: #808080;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 5px 0;
+    color: aliceblue;
+    list-style: none;
+    text-transform: uppercase;
+    transition: all .4s ease;
+    display: flex;
+    justify-content: center;
+}
+.bar{
+    margin-top: 1rem;
+    width: 100%;
+}
+
+
+li:hover{
+    background-color: #DA5984;
+}

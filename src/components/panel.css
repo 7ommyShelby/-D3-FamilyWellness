@@ -1,0 +1,13 @@
+.sec2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #F7F3F7;
+}
+
+.cr{
+    width: 74%;
+}
+.thumbs{
+    justify-content: flex-start;
+}
